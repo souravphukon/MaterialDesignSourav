@@ -3,4 +3,5 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="nav_dimension">280dp</dimen>
+    <dimen name="txt_margin_top">24dp</dimen>
 </resources>

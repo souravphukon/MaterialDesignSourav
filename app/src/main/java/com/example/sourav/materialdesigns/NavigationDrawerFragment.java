@@ -80,7 +80,7 @@ public class NavigationDrawerFragment extends Fragment {
             @Override
             public void onDrawerSlide(View drawerView, float slideOffset) {
                 super.onDrawerSlide(drawerView, slideOffset);
-
+                //1 means open and 0 means closed
                 if (slideOffset < 0.6) {
                     toolbar.setAlpha(1 - slideOffset);
                 }
